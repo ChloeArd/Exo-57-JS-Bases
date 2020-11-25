@@ -1,6 +1,6 @@
 let age = prompt("Saisissez votre âge");
 
-if (age > 18) {
+if (age >= 18) {
     alert("Vous êtes majeur");
 }
 
